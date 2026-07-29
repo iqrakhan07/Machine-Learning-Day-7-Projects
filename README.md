@@ -155,18 +155,6 @@ Machine-Learning-Day-7-Projects
 ├── Movie_Recommendation_KMeans.py
 ├── movies.csv
 │
-├── images
-│   ├── project_cover.png
-│   ├── customer_elbow_method.png
-│   ├── customer_clusters.png
-│   ├── customer_centroids.png
-│   ├── movie_elbow_method.png
-│   ├── customer_segmentation_output-part1.png
-|   ├── customer_segmentation_output-part2.png
-|   ├── movie_recommendation_output-pat1.png
-|   ├── movie_recommendation_output-pat2.png
-│   └── output_image.jpeg
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
